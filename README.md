@@ -1,7 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">"Unlocking Insights and Driving Business Results through Data-Driven Solutions"</h3>
+<img align="right" alt="Coding" width="400" src="https://onpassive.com/blog/wp-content/uploads/2021/01/Machine-Learning-in-E-Learning.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarifaisal12&label=Profile%20views&color=0e75b6&style=flat" alt="ansarifaisal12" /> </p>
 
+<p align="left"> <a href="https://twitter.com/muhammad7510928" target="blank"><img src="https://img.shields.io/twitter/follow/muhammad7510928?logo=twitter&style=for-the-badge" alt="muhammad7510928" /></a> </p>
 
 - 🌱 I’m currently learning **Deep learning, MLops.**
 
@@ -19,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansarifaisal12&show_icons=true&locale=en&layout=compact" alt="ansarifaisal12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansarifaisal12&show_icons=true&locale=en" alt="ansarifaisal12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansarifaisal12&" alt="ansarifaisal12" /></p>
