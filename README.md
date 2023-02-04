@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">"Unlocking Insights and Driving Business Results through Data-Driven Solutions"</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+
 
 
 - 🌱 I’m currently learning **Deep learning, MLops.**
