@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Muhammad Faisal</h1>
 <h3 align="center">"Unlocking Insights and Driving Business Results through Data-Driven Solutions"</h3>
 <img align="right" alt="Coding" width="400" src="https://onpassive.com/blog/wp-content/uploads/2021/01/Machine-Learning-in-E-Learning.gif">
